@@ -1,0 +1,13 @@
+interface:
+  display_name: 法律英汉双向翻译
+  short_description: 保留法域与条款逻辑，完成英汉法律翻译、术语核对与歧义标注
+  default_prompt: 请使用 $legal-en-zh-translator 翻译以下法律文本，保留其法域、定义术语与权利义务逻辑。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
