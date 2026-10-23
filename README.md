@@ -8,7 +8,7 @@
 2. 在工具中启用或调用 `legal-en-zh-translator`。例如：“请使用 legal-en-zh-translator 翻译以下合同条款，并标注影响理解的歧义。”
 3. 提供待译文本、翻译方向，以及已知的原文法域、文书类型和目标读者。涉及保密材料时，先确认所用工具及检索方式符合你的保密要求。
 
-`SKILL.md` 是入口；`references/jurisdiction-and-terms.md` 提供法域与术语提醒，`references/qa-rubric.md` 是译前交付核对清单，`agents/openai.yaml` 和 `assets/icon.svg` 提供界面元数据及图标。各工具的 Skill 安装位置和调用方式可能不同，请以所用工具的说明为准。
+`SKILL.md` 是入口；`references/jurisdiction-and-terms.md` 提供法域与术语提醒，`references/qa-rubric.md` 是译后交付核对清单，`agents/openai.yaml` 和 `assets/icon.svg` 提供界面元数据及图标。各工具的 Skill 安装位置和调用方式可能不同，请以所用工具的说明为准。
 
 ## 六步流程
 
